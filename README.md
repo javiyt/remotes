@@ -95,7 +95,7 @@ longer useful (broken URL, not clearly listing remote offers which fulfill
 the criteria for the listing, etc.), please send a PR removing it (along
 with a justification) or open an issue.
 
-See [OWNERS](OWNERS.md) for details about the maintenance of the project.
+See [OWNERS](OWNERS.md) for details about the maintenance of the project
 
 # Companies
 
@@ -120,7 +120,6 @@ See [OWNERS](OWNERS.md) for details about the maintenance of the project.
 * BestSecret [Open positions](https://jobs.bestsecret.com/en/jobs.html?location=Granada)
 * Big Blue Analytics (All offers are remote) [Open positions](https://bigblueanalytics.com/hiring/)
 * Blacklane [Open positions](https://boards.greenhouse.io/blacklane)
-* Blue Telecom Consulting (All offers are remote) [Open positions](https://www.bluetc.es/en/work-with-us/job-offers)
 * BMAT [Open positions](https://www.bmat.com/careers/)
 * Boats Group [Open positions](https://www.boatsgroup.com/careers/)
 * Brainly (All offers are remote) [Open positions](https://careers.brainly.com/open-positions/)
@@ -145,7 +144,7 @@ See [OWNERS](OWNERS.md) for details about the maintenance of the project.
 * Codurance (View individual job offers to check for remote) (Core office hours/overlap between 10:00 and 17:00 CEST) [Open positions](https://www.codurance.com/careers/current-roles?hsCtaTracking=fd7530a4-dec7-4756-a255-81b5624a506b%7Ca53de7f3-e646-4f7b-997a-28f786445c95)
 * Colvin (All offers are remote) [Open positions](https://www.linkedin.com/company/colvin/jobs/)
 * Confluent (All offers are remote) [Open positions](https://www.confluent.io/careers/)
-* Coopdevs (All offers are remote) [Open positions](https://coopdevs.org/treballa-amb-nosaltres/)
+* Coopdevs (All offers are remote) [Open positions](https://odoo.coopdevs.org/jobs)
 * Copado [Open positions](https://www.copado.com/careers/#openpositions)
 * Crisis Text Line [Open positions](https://boards.greenhouse.io/crisistextline86)
 * Damavis (All offers are remote) [Open positions](https://damavis.com/es/jobs)
@@ -205,6 +204,7 @@ See [OWNERS](OWNERS.md) for details about the maintenance of the project.
 * Lang.ai [Open positions](https://www.linkedin.com/company/lang-ai/jobs/)
 * Landbot (All offers are remote) [Open positions](https://jobs.landbot.io/)
 * Launchmetrics (All offers are remote) [Open positions](https://careers.launchmetrics.com/)
+* Laude [Open positions](https://jobs.laude.tech/jobs)
 * Leadtech [Open positions](https://leadtech.com/work-with-us)
 * Less Than Three (View individual offers to check for remote) [Open positions](https://www.linkedin.com/company/less-than-three/jobs/)
 * Líbere [Open positions](https://liberetech.com/#open-positions)
@@ -302,6 +302,7 @@ See [OWNERS](OWNERS.md) for details about the maintenance of the project.
 * UserZoom [Open positions](https://www.userzoom.com/careers?uuid=elia)
 * Verbio (View individual job offers to check for remote) [Open positions](https://www.verbio.com/careers/)
 * Vinissimus [Open positions](https://www.linkedin.com/company/vinissimus/jobs/)
+* ViewNext [Open positions](https://www.linkedin.com/company/viewnext/jobs/)
 * Vistaprint (All offers are remote) [Open positions](https://jobs.vista.com/Vista/go/Vista-All/8835100/?q=&q2=&alertId=&locationsearch=&title=&shifttype=&facility=Remote&department=)
 * Vitaance (Monthly trips to Barcelona/Madrid) [Open positions](https://vitaance.jobs.personio.com/)
 * Vizzuality (All offers are remote) [Open positions](https://vizzuality.bamboohr.com/jobs/)
