@@ -101,6 +101,7 @@ See [OWNERS](OWNERS.md) for details about the maintenance of the project
 
 * 11Onze [Open positions](https://11onze.breezy.hr/)
 * ABA English [Open positions](https://aba-english.factorialhr.es/)
+* Alan [Open positions](https://jobs.lever.co/alan?department=Product&team=Engineering)
 * Affirm [Open positions](https://boards.greenhouse.io/affirm/)
 * Akamai [Open positions](https://akamaicareers.inflightcloud.com/)
 * Andjaro [Open positions](https://www.welcometothejungle.com/en/companies/andjaro/jobs)
@@ -303,6 +304,7 @@ See [OWNERS](OWNERS.md) for details about the maintenance of the project
 * Unimedia Technology [Open positions](https://www.linkedin.com/jobs/search/?f_C=13029092)
 * UserZoom [Open positions](https://www.userzoom.com/careers?uuid=elia)
 * Verbio (View individual job offers to check for remote) [Open positions](https://www.verbio.com/careers/)
+* VideoAsk (All offers are remote) [Open positions](https://www.linkedin.com/company/videoask/jobs/)
 * Vinissimus [Open positions](https://www.linkedin.com/company/vinissimus/jobs/)
 * ViewNext [Open positions](https://www.linkedin.com/company/viewnext/jobs/)
 * Vistaprint (All offers are remote) [Open positions](https://jobs.vista.com/Vista/go/Vista-All/8835100/?q=&q2=&alertId=&locationsearch=&title=&shifttype=&facility=Remote&department=)
