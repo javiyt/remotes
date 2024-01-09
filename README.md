@@ -99,6 +99,8 @@ See [OWNERS](OWNERS.md) for details about the maintenance of the project
 
 # Companies
 
+The following companies offer remote jobs and hire in Spain:
+
 * 11Onze [Open positions](https://11onze.breezy.hr/)
 * ABA English [Open positions](https://aba-english.factorialhr.es/)
 * Alan [Open positions](https://jobs.lever.co/alan?department=Product&team=Engineering)
@@ -114,6 +116,7 @@ See [OWNERS](OWNERS.md) for details about the maintenance of the project
 * AREX Markets (All offers are remote) [Open positions](https://apply.workable.com/arex/)
 * AtomicJar [Open positions](https://www.atomicjar.com/careers/)
 * Audiense [Open positions](http://aboutus.audiense.com/careers)
+* Automattic [Open positions](https://automattic.com/work-with-us/)
 * Back Market [Open positions](https://jobs.lever.co/backmarket?location=Barcelona&commitment=PERMANENT%20CONTRACT%20%28FULL-TIME%29)
 * Bankflip (All offers are remote) [Open positions](https://www.linkedin.com/company/bankflip/jobs/)
 * BeBanjo [Open positions](https://bebanjo.com/careers)
@@ -337,6 +340,8 @@ See [OWNERS](OWNERS.md) for details about the maintenance of the project
 * Zubi Group [Open positions](https://apply.workable.com/zubi-group/)
 
 # Others
+
+The following links might be useful if you are looking for a remote position in Spain.
 
 * JobFluent [Open positions](https://www.jobfluent.com/es/empleos-remoto) JobFluent is a Spanish job search site that allows filtering for 100% remote positions and only listing companies with offices in Spain.
 * Manfred [Open positions](https://www.getmanfred.com/ofertas-empleo) Manfred is a recruiting company. Offers marked as `FULL REMOTE` and with a salary in euro comply with the conditions stated above.
