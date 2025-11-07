@@ -188,6 +188,7 @@ The following companies offer remote jobs and hire in Spain:
 * Fastly [Open positions](https://www.fastly.com/about/careers)
 * FCM Lab (View individual job offers to check for remote) [Open positions](https://fcm-business-travel-lab-sl.factorialhr.es/#jobs)
 * Fever [Open positions](https://careers.feverup.com/apply)
+* FitXR [Open positions](https://fitxr-1642768457.teamtailor.com/jobs
 * Flywire [Open positions](https://www.flywire.com/company/careers)
 * ForceManager [Open positions](https://forcemanager.bamboohr.com/jobs/)
 * Form3 [Open positions](https://form3.tech/careers)
@@ -247,6 +248,7 @@ The following companies offer remote jobs and hire in Spain:
 * Linux Foundation [Open positions](https://www.linuxfoundation.org/careers#positions)
 * Learnlife [Open positions](https://learnlife.com/work-with-us)
 * Localistico [Open positions](https://angel.co/company/localistico)
+* Lodgify [Open positions](https://www.lodgify.com/careers)
 * Mailtrack [Open positions](https://mailtrack.io/blog/tag/jobs/)
 * maisa AI [Open positions](https://maisa.ai/careers)
 * Marsbased [Open positions](https://marsbased.com/es/jobs/)
@@ -279,6 +281,7 @@ The following companies offer remote jobs and hire in Spain:
 * Onna (All offers are remote) [Open positions](https://onna.com/careers#jobopenings)
 * OpenSistemas (All offers are remote) [Open positions](https://opensistemas.com/category/empleo/)
 * Osoigo (All offers are remote) [Open positions](https://www.linkedin.com/company/osoigo/jobs/)
+* Papaya [Open positions](https://apply.workable.com/papayadash/)
 * Parkos [Open positions](https://jobs.parkos.com/jobs?remote_status_id=fully&query=)
 * PayFit (All offers are remote) [Open positions](https://payfit.com/en/careers/)
 * PcComponentes [Open positions](https://www.pccomponentes.com/trabaja-con-nosotros)
